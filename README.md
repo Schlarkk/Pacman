@@ -9,5 +9,5 @@ Your goal is to go to different abnormalities and collect Enkephalin modules fro
 
 Some abnormalities can have enemies inside those mazes and some give gifts when finishing mazes.
 
-here's a sketch:
+here's a sketch concept:
 <img width="1090" height="596" alt="image" src="https://github.com/user-attachments/assets/46f90401-6457-45b9-a318-17f876cabc55" />
