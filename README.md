@@ -1,4 +1,5 @@
-# Pacman
+# pacman
+Idea
 Pacman but not at all pacman.
 Fuck pacman, we keep the style but we change everything.
 
