@@ -11,3 +11,7 @@ Some abnormalities can have enemies inside those mazes and some give gifts when 
 
 here's a sketch concept:
 <img width="1090" height="596" alt="image" src="https://github.com/user-attachments/assets/46f90401-6457-45b9-a318-17f876cabc55" />
+
+
+<img width="2048" height="1152" alt="grid_64x36_2048x1152" src="https://github.com/user-attachments/assets/402e0136-2189-4640-a213-43565617c287" />
+
