@@ -7,7 +7,7 @@ the player:
 You are an underpayed worker going to the arcade to play some games, everytime you win an arcade game you gain points, and you always need a certain amount of points to go to the next room and get harder arcade machines. When beating an aracde you have a slight chance of being to gain a reward.
 
 The enemy:
-VERY VERY VERY VERY VERY VERY Simple
+
 
 here's a sketch concept:
 <img width="1090" height="596" alt="image" src="https://github.com/user-attachments/assets/46f90401-6457-45b9-a318-17f876cabc55" />
